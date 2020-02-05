@@ -1,4 +1,4 @@
-package boris
+package boris.gene2
 
 
 fun main(args: Array<String>) {
